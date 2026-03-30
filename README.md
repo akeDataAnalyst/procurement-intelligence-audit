@@ -1,7 +1,6 @@
 # Strategic Procurement & Supplier Intelligence Scorecard (2024–2025)
----
 
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://procurement-intelligence-audit-k7ejx6wb2czjyrrf5tyknq.streamlit.app/)
 
 ## Project Description
 
