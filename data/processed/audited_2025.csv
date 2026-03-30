@@ -1,0 +1,301 @@
+PO_Number,Supplier,Category,Product_Family,PO_Date,Expected_Delivery,Actual_Delivery,Ordered_Qty,Received_Qty,Unit_Price_PO,Unit_Price_Final,Actual_Lead_Time,Price_Diff,Price_Variance_Pct,High_Price_Risk,Days_Late,OTD_Status,Qty_Accuracy_Rate,Is_Short_Shipment
+DS-2025-1000,Dayliff (Global),Internal Brand,Borehole Pumps,2024-09-27,2024-10-24,2024-10-24,112,112,978.26,978.26,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1001,Dayliff (Global),Internal Brand,Solar Power Systems,2024-11-26,2024-12-23,2024-12-23,113,113,633.82,633.82,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1002,Dayliff (Global),Internal Brand,Pool Equipment,2024-12-09,2025-01-03,2025-01-03,197,197,201.01,201.01,25,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1003,Pedrollo (Italy),External OEM,Borehole Pumps,2024-01-22,2024-03-08,2024-03-08,68,68,229.98,229.98,46,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1004,Dayliff (Global),Internal Brand,Surface Pumps,2025-11-30,2025-12-22,2025-12-22,73,73,697.2,697.2,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1005,Dayliff (Global),Internal Brand,Water Treatment,2025-10-08,2025-11-01,2025-11-01,27,27,785.65,785.65,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1006,Addis Engineering,Local Partner,Water Treatment,2024-08-29,2024-09-09,2024-09-09,139,139,220.76,220.76,11,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1007,Dayliff (Global),Internal Brand,Water Treatment,2025-03-30,2025-04-26,2025-04-26,90,90,244.71,244.71,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1008,Dayliff (Global),Internal Brand,Borehole Pumps,2025-01-22,2025-02-12,2025-02-12,63,63,752.7,752.7,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1009,Grundfos (Denmark),External OEM,Water Treatment,2025-02-05,2025-03-23,2025-03-23,199,199,1421.35,1421.35,46,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1010,Speroni (Italy),External OEM,Pool Equipment,2024-09-27,2024-11-08,2024-11-08,199,199,941.58,941.58,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1011,Dayliff (Global),Internal Brand,Water Treatment,2024-12-03,2024-12-27,2024-12-27,197,197,962.78,962.78,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1012,Dayliff (Global),Internal Brand,Surface Pumps,2024-06-05,2024-06-25,2024-06-25,18,18,220.33,220.33,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1013,Dayliff (Global),Internal Brand,Solar Power Systems,2025-04-16,2025-05-08,2025-05-08,172,172,1118.91,1118.91,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1014,Grundfos (Denmark),External OEM,Surface Pumps,2025-05-04,2025-06-14,2025-06-14,37,37,1046.4,1046.4,41,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1015,Pedrollo (Italy),External OEM,Pool Equipment,2024-02-02,2024-03-23,2024-03-23,71,71,682.06,682.06,50,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1016,Speroni (Italy),External OEM,Solar Power Systems,2025-06-30,2025-08-04,2025-08-04,184,184,697.8,697.8,35,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1017,Pedrollo (Italy),External OEM,Borehole Pumps,2025-05-17,2025-07-04,2025-07-04,146,146,841.93,926.123,48,84.1930000000001,10.000000000000012,True,0,On-Time,100.0,False
+DS-2025-1018,Dayliff (Global),Internal Brand,Pool Equipment,2025-04-05,2025-04-27,2025-04-27,61,61,240.86,240.86,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1019,Pedrollo (Italy),External OEM,Solar Power Systems,2025-04-29,2025-06-25,2025-06-25,152,152,985.74,985.74,57,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1020,Dayliff (Global),Internal Brand,Water Treatment,2025-06-08,2025-07-04,2025-07-04,95,95,576.68,576.68,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1021,Ethio-Plastics,Local Partner,Water Treatment,2025-07-27,2025-08-07,2025-08-07,37,37,337.14,337.14,11,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1022,Dayliff (Global),Internal Brand,Surface Pumps,2024-12-05,2025-01-03,2025-01-03,199,199,358.71,358.71,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1023,Dayliff (Global),Internal Brand,Solar Power Systems,2024-10-09,2024-11-06,2024-11-06,12,12,1263.42,1263.42,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1024,Grundfos (Denmark),External OEM,Solar Power Systems,2024-08-12,2024-10-04,2024-10-04,161,161,550.24,605.264,53,55.024,10.0,True,0,On-Time,100.0,False
+DS-2025-1025,Dayliff (Global),Internal Brand,Surface Pumps,2025-08-30,2025-09-26,2025-09-26,122,122,1113.92,1113.92,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1026,Dayliff (Global),Internal Brand,Pool Equipment,2024-09-24,2024-10-20,2024-10-20,122,122,846.42,846.42,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1027,Dayliff (Global),Internal Brand,Pool Equipment,2024-03-21,2024-04-10,2024-04-10,63,63,1469.6,1469.6,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1028,Dayliff (Global),Internal Brand,Water Treatment,2025-01-19,2025-02-10,2025-02-10,62,62,1084.92,1084.92,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1029,Pedrollo (Italy),External OEM,Solar Power Systems,2025-02-19,2025-04-17,2025-04-17,193,193,1073.78,1181.158,57,107.37799999999993,9.999999999999993,True,0,On-Time,100.0,False
+DS-2025-1030,Dayliff (Global),Internal Brand,Solar Power Systems,2024-10-20,2024-11-16,2024-11-16,107,107,811.39,811.39,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1031,Ethio-Plastics,Local Partner,Water Treatment,2024-07-19,2024-07-27,2024-07-27,12,12,1104.56,1104.56,8,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1032,Dayliff (Global),Internal Brand,Water Treatment,2025-02-06,2025-03-07,2025-03-07,156,156,865.72,865.72,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1033,Speroni (Italy),External OEM,Borehole Pumps,2025-05-03,2025-06-07,2025-06-07,48,48,716.84,788.5240000000001,35,71.68400000000008,10.000000000000012,True,0,On-Time,100.0,False
+DS-2025-1034,Nile Logistics,Local Partner,Solar Power Systems,2025-04-17,2025-04-21,2025-04-21,51,51,1402.1,1402.1,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1035,Dayliff (Global),Internal Brand,Surface Pumps,2024-05-23,2024-06-21,2024-06-21,69,69,1476.82,1476.82,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1036,Dayliff (Global),Internal Brand,Surface Pumps,2024-10-30,2024-11-23,2024-11-23,18,18,1370.54,1370.54,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1037,Dayliff (Global),Internal Brand,Surface Pumps,2024-07-26,2024-08-17,2024-08-17,63,63,1313.22,1313.22,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1038,SolarWorld (Germany),External OEM,Water Treatment,2025-09-16,2025-10-28,2025-10-28,113,113,1220.94,1220.94,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1039,Speroni (Italy),External OEM,Borehole Pumps,2025-05-24,2025-07-22,2025-07-22,102,102,1062.55,1062.55,59,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1040,Dayliff (Global),Internal Brand,Surface Pumps,2024-12-03,2024-12-24,2024-12-24,198,198,1099.46,1099.46,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1041,Dayliff (Global),Internal Brand,Water Treatment,2025-08-02,2025-08-22,2025-08-22,57,57,842.06,842.06,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1042,Dayliff (Global),Internal Brand,Surface Pumps,2025-01-26,2025-02-21,2025-02-21,137,137,1137.22,1137.22,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1043,SolarWorld (Germany),External OEM,Pool Equipment,2025-04-14,2025-06-10,2025-06-10,167,167,525.6,525.6,57,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1044,Speroni (Italy),External OEM,Water Treatment,2024-10-09,2024-11-14,2024-11-14,106,106,655.1,720.6100000000001,36,65.5100000000001,10.000000000000016,True,0,On-Time,100.0,False
+DS-2025-1045,Grundfos (Denmark),External OEM,Surface Pumps,2025-03-28,2025-05-17,2025-05-17,44,44,565.0,565.0,50,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1046,Dayliff (Global),Internal Brand,Surface Pumps,2024-06-20,2024-07-14,2024-07-14,133,133,1348.54,1348.54,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1047,Ethio-Plastics,Local Partner,Surface Pumps,2025-05-11,2025-05-18,2025-05-26,197,197,943.98,943.98,15,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1048,Dayliff (Global),Internal Brand,Solar Power Systems,2024-09-09,2024-10-03,2024-10-03,170,170,448.18,448.18,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1049,Dayliff (Global),Internal Brand,Borehole Pumps,2025-07-19,2025-08-17,2025-08-17,183,183,1409.02,1409.02,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1050,Pedrollo (Italy),External OEM,Borehole Pumps,2025-10-24,2025-11-29,2025-11-29,139,139,530.41,530.41,36,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1051,Grundfos (Denmark),External OEM,Pool Equipment,2025-01-27,2025-03-13,2025-03-13,48,48,1121.58,1121.58,45,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1052,Dayliff (Global),Internal Brand,Pool Equipment,2025-06-21,2025-07-13,2025-07-13,161,161,533.07,533.07,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1053,Dayliff (Global),Internal Brand,Water Treatment,2024-02-05,2024-02-28,2024-02-28,153,153,1044.95,1044.95,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1054,Nile Logistics,Local Partner,Solar Power Systems,2024-04-01,2024-04-05,2024-04-05,95,95,322.18,322.18,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1055,SolarWorld (Germany),External OEM,Surface Pumps,2024-07-08,2024-09-02,2024-09-02,95,95,968.08,968.08,56,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1056,Dayliff (Global),Internal Brand,Water Treatment,2024-02-23,2024-03-18,2024-03-18,62,62,878.92,878.92,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1057,Dayliff (Global),Internal Brand,Water Treatment,2024-01-05,2024-01-31,2024-01-31,118,118,310.95,310.95,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1058,SolarWorld (Germany),External OEM,Solar Power Systems,2025-10-17,2025-12-03,2025-12-03,115,115,1460.4,1460.4,47,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1059,SolarWorld (Germany),External OEM,Surface Pumps,2025-08-26,2025-10-22,2025-10-22,126,126,526.12,526.12,57,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1060,Grundfos (Denmark),External OEM,Surface Pumps,2024-02-27,2024-04-02,2024-04-02,105,105,775.06,775.06,35,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1061,Grundfos (Denmark),External OEM,Pool Equipment,2024-09-28,2024-11-08,2024-11-08,78,78,1054.24,1054.24,41,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1062,Speroni (Italy),External OEM,Surface Pumps,2024-06-02,2024-07-22,2024-07-22,95,95,406.24,406.24,50,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1063,Dayliff (Global),Internal Brand,Water Treatment,2024-08-07,2024-08-31,2024-08-31,103,103,322.4,322.4,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1064,Dayliff (Global),Internal Brand,Water Treatment,2024-08-05,2024-09-03,2024-09-03,48,48,839.1,839.1,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1065,Dayliff (Global),Internal Brand,Water Treatment,2024-12-22,2025-01-17,2025-01-17,78,78,262.48,262.48,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1066,Dayliff (Global),Internal Brand,Surface Pumps,2024-08-10,2024-09-08,2024-09-08,195,195,1013.62,1013.62,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1067,Grundfos (Denmark),External OEM,Surface Pumps,2025-05-30,2025-07-19,2025-07-19,11,11,291.74,320.91400000000004,50,29.174000000000035,10.000000000000012,True,0,On-Time,100.0,False
+DS-2025-1068,Nile Logistics,Local Partner,Surface Pumps,2025-10-25,2025-10-29,2025-10-29,42,42,945.38,945.38,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1069,Nile Logistics,Local Partner,Borehole Pumps,2025-09-04,2025-09-09,2025-09-17,177,177,1266.55,1266.55,13,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1070,Dayliff (Global),Internal Brand,Surface Pumps,2024-10-11,2024-11-01,2024-11-01,44,44,250.65,250.65,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1071,Grundfos (Denmark),External OEM,Water Treatment,2025-08-24,2025-09-29,2025-09-29,144,144,538.9,538.9,36,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1072,Pedrollo (Italy),External OEM,Surface Pumps,2025-05-07,2025-06-21,2025-06-21,173,173,1340.71,1340.71,45,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1073,Ethio-Plastics,Local Partner,Solar Power Systems,2025-11-06,2025-11-13,2025-11-13,186,186,1175.8,1175.8,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1074,Pedrollo (Italy),External OEM,Water Treatment,2024-04-05,2024-06-02,2024-06-02,46,46,1327.25,1327.25,58,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1075,Grundfos (Denmark),External OEM,Surface Pumps,2024-10-05,2024-12-03,2024-12-03,39,39,509.71,560.681,59,50.97100000000006,10.000000000000012,True,0,On-Time,100.0,False
+DS-2025-1076,Speroni (Italy),External OEM,Water Treatment,2024-12-07,2025-01-23,2025-01-23,186,186,1364.18,1364.18,47,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1077,Dayliff (Global),Internal Brand,Water Treatment,2024-08-20,2024-09-11,2024-09-11,37,37,318.67,318.67,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1078,SolarWorld (Germany),External OEM,Surface Pumps,2024-05-23,2024-07-17,2024-07-17,149,149,319.22,319.22,55,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1079,Grundfos (Denmark),External OEM,Pool Equipment,2025-04-28,2025-06-22,2025-06-22,66,66,1229.05,1229.05,55,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1080,Addis Engineering,Local Partner,Borehole Pumps,2025-02-01,2025-02-08,2025-02-08,84,84,1158.15,1158.15,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1081,Ethio-Plastics,Local Partner,Pool Equipment,2024-03-14,2024-03-17,2024-03-25,16,16,331.46,331.46,11,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1082,Dayliff (Global),Internal Brand,Pool Equipment,2025-01-27,2025-02-17,2025-02-17,14,14,1359.47,1359.47,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1083,Dayliff (Global),Internal Brand,Water Treatment,2024-12-04,2024-12-31,2024-12-31,74,74,686.55,686.55,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1084,Dayliff (Global),Internal Brand,Water Treatment,2024-11-22,2024-12-20,2024-12-20,45,45,969.46,969.46,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1085,Dayliff (Global),Internal Brand,Solar Power Systems,2025-03-20,2025-04-14,2025-04-14,99,99,1116.61,1116.61,25,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1086,Dayliff (Global),Internal Brand,Water Treatment,2025-03-26,2025-04-16,2025-04-16,67,67,809.26,809.26,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1087,Dayliff (Global),Internal Brand,Surface Pumps,2024-12-26,2025-01-21,2025-01-21,101,101,1169.86,1169.86,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1088,Dayliff (Global),Internal Brand,Pool Equipment,2025-01-03,2025-01-31,2025-01-31,175,175,1329.18,1329.18,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1089,Ethio-Plastics,Local Partner,Solar Power Systems,2025-11-02,2025-11-09,2025-11-09,173,173,256.42,256.42,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1090,Grundfos (Denmark),External OEM,Surface Pumps,2025-02-05,2025-03-26,2025-03-26,23,23,1018.22,1018.22,49,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1091,Pedrollo (Italy),External OEM,Borehole Pumps,2024-09-15,2024-11-04,2024-11-04,21,21,1158.23,1274.053,50,115.82300000000009,10.000000000000007,True,0,On-Time,100.0,False
+DS-2025-1092,Addis Engineering,Local Partner,Water Treatment,2025-02-11,2025-02-18,2025-02-18,101,101,560.6,560.6,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1093,Pedrollo (Italy),External OEM,Surface Pumps,2024-11-11,2025-01-02,2025-01-02,110,110,545.72,545.72,52,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1094,Dayliff (Global),Internal Brand,Pool Equipment,2025-05-16,2025-06-05,2025-06-05,166,166,563.69,563.69,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1095,Ethio-Plastics,Local Partner,Surface Pumps,2025-01-24,2025-01-28,2025-01-28,56,56,741.63,741.63,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1096,Speroni (Italy),External OEM,Surface Pumps,2024-08-29,2024-10-15,2024-10-15,42,42,414.28,414.28,47,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1097,SolarWorld (Germany),External OEM,Surface Pumps,2024-06-25,2024-08-09,2024-08-09,72,72,972.37,972.37,45,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1098,Nile Logistics,Local Partner,Surface Pumps,2025-11-19,2025-11-22,2025-11-22,108,108,809.3,809.3,3,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1099,Dayliff (Global),Internal Brand,Solar Power Systems,2025-06-01,2025-06-21,2025-06-21,142,142,894.65,894.65,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1100,Grundfos (Denmark),External OEM,Surface Pumps,2025-07-18,2025-08-26,2025-08-26,92,92,1184.21,1184.21,39,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1101,Dayliff (Global),Internal Brand,Surface Pumps,2025-04-01,2025-04-21,2025-04-21,13,13,1440.27,1440.27,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1102,Speroni (Italy),External OEM,Solar Power Systems,2024-02-03,2024-03-16,2024-03-16,171,171,228.84,228.84,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1103,Speroni (Italy),External OEM,Surface Pumps,2024-02-23,2024-04-09,2024-04-09,66,66,929.22,929.22,46,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1104,Dayliff (Global),Internal Brand,Borehole Pumps,2024-10-29,2024-11-24,2024-11-24,94,94,1181.68,1181.68,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1105,Nile Logistics,Local Partner,Borehole Pumps,2025-02-25,2025-03-01,2025-03-01,107,107,655.76,655.76,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1106,Dayliff (Global),Internal Brand,Surface Pumps,2025-03-10,2025-03-31,2025-03-31,175,175,652.73,652.73,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1107,Speroni (Italy),External OEM,Pool Equipment,2025-06-25,2025-08-21,2025-08-21,90,90,880.68,880.68,57,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1108,Pedrollo (Italy),External OEM,Pool Equipment,2024-07-02,2024-08-22,2024-08-22,93,93,839.75,839.75,51,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1109,Ethio-Plastics,Local Partner,Solar Power Systems,2025-03-25,2025-03-30,2025-03-30,160,160,898.44,898.44,5,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1110,Dayliff (Global),Internal Brand,Surface Pumps,2025-06-03,2025-06-26,2025-06-26,193,193,436.44,436.44,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1111,Nile Logistics,Local Partner,Solar Power Systems,2025-10-28,2025-11-01,2025-11-01,60,60,982.52,982.52,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1112,Addis Engineering,Local Partner,Pool Equipment,2025-08-26,2025-09-03,2025-09-03,10,10,315.31,315.31,8,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1113,Pedrollo (Italy),External OEM,Solar Power Systems,2024-02-15,2024-03-22,2024-03-22,54,54,367.37,367.37,36,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1114,Dayliff (Global),Internal Brand,Solar Power Systems,2024-09-05,2024-10-03,2024-10-03,65,65,1094.12,1094.12,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1115,Ethio-Plastics,Local Partner,Solar Power Systems,2024-12-02,2024-12-08,2024-12-08,122,122,1248.06,1248.06,6,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1116,Dayliff (Global),Internal Brand,Borehole Pumps,2024-10-29,2024-11-25,2024-11-25,37,37,829.88,829.88,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1117,Pedrollo (Italy),External OEM,Solar Power Systems,2025-11-29,2026-01-26,2026-01-26,12,12,373.05,373.05,58,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1118,Grundfos (Denmark),External OEM,Surface Pumps,2024-09-30,2024-11-09,2024-11-09,24,24,892.4,892.4,40,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1119,Speroni (Italy),External OEM,Borehole Pumps,2024-02-08,2024-04-07,2024-04-07,95,95,1292.92,1292.92,59,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1120,Grundfos (Denmark),External OEM,Borehole Pumps,2024-05-24,2024-07-10,2024-07-10,77,77,971.67,971.67,47,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1121,Grundfos (Denmark),External OEM,Surface Pumps,2024-05-25,2024-07-13,2024-07-13,43,43,959.46,959.46,49,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1122,Pedrollo (Italy),External OEM,Borehole Pumps,2025-02-28,2025-04-08,2025-04-08,35,35,672.01,672.01,39,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1123,Dayliff (Global),Internal Brand,Pool Equipment,2024-11-10,2024-12-05,2024-12-05,42,42,987.51,987.51,25,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1124,Dayliff (Global),Internal Brand,Solar Power Systems,2025-08-04,2025-08-30,2025-08-30,103,103,834.15,834.15,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1125,Dayliff (Global),Internal Brand,Solar Power Systems,2024-12-15,2025-01-11,2025-01-11,140,140,1365.8,1365.8,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1126,Dayliff (Global),Internal Brand,Borehole Pumps,2024-08-16,2024-09-08,2024-09-08,15,15,1496.43,1496.43,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1127,SolarWorld (Germany),External OEM,Solar Power Systems,2024-01-04,2024-02-22,2024-02-22,122,122,1262.19,1262.19,49,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1128,Addis Engineering,Local Partner,Borehole Pumps,2025-01-26,2025-01-31,2025-01-31,142,142,1290.16,1290.16,5,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1129,Dayliff (Global),Internal Brand,Surface Pumps,2024-08-12,2024-09-04,2024-09-04,56,56,515.13,515.13,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1130,Speroni (Italy),External OEM,Pool Equipment,2025-07-03,2025-08-11,2025-08-11,109,109,857.94,943.7340000000002,39,85.7940000000001,10.00000000000001,True,0,On-Time,100.0,False
+DS-2025-1131,Grundfos (Denmark),External OEM,Borehole Pumps,2025-11-20,2026-01-17,2026-02-16,160,160,374.74,374.74,88,0.0,0.0,False,30,Critical Delay,100.0,False
+DS-2025-1132,Ethio-Plastics,Local Partner,Pool Equipment,2024-06-16,2024-06-20,2024-06-28,72,72,314.23,314.23,12,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1133,Dayliff (Global),Internal Brand,Surface Pumps,2025-07-03,2025-07-29,2025-07-29,104,104,1232.58,1232.58,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1134,Addis Engineering,Local Partner,Borehole Pumps,2024-11-29,2024-12-06,2024-12-14,146,146,1150.13,1150.13,15,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1135,Dayliff (Global),Internal Brand,Water Treatment,2025-06-30,2025-07-20,2025-07-20,159,159,1163.46,1163.46,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1136,Nile Logistics,Local Partner,Solar Power Systems,2024-08-16,2024-08-21,2024-08-21,14,14,413.55,413.55,5,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1137,Pedrollo (Italy),External OEM,Surface Pumps,2025-07-27,2025-09-03,2025-09-03,51,51,611.06,611.06,38,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1138,Speroni (Italy),External OEM,Pool Equipment,2024-10-21,2024-12-02,2024-12-02,188,188,690.03,690.03,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1139,Dayliff (Global),Internal Brand,Solar Power Systems,2024-01-23,2024-02-12,2024-02-12,62,62,501.88,501.88,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1140,Pedrollo (Italy),External OEM,Water Treatment,2025-10-07,2025-11-13,2025-11-13,51,51,1016.02,1016.02,37,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1141,Grundfos (Denmark),External OEM,Water Treatment,2024-10-15,2024-12-08,2024-12-08,164,164,1163.9,1280.2900000000002,54,116.3900000000001,10.000000000000007,True,0,On-Time,100.0,False
+DS-2025-1142,Ethio-Plastics,Local Partner,Water Treatment,2024-04-06,2024-04-13,2024-04-13,42,42,1212.14,1212.14,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1143,Pedrollo (Italy),External OEM,Pool Equipment,2025-05-31,2025-07-14,2025-07-14,47,47,644.71,644.71,44,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1144,Dayliff (Global),Internal Brand,Pool Equipment,2024-08-15,2024-09-11,2024-09-11,24,24,985.15,985.15,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1145,Grundfos (Denmark),External OEM,Solar Power Systems,2024-02-16,2024-03-25,2024-03-25,139,139,1138.93,1138.93,38,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1146,SolarWorld (Germany),External OEM,Solar Power Systems,2024-10-18,2024-12-02,2024-12-02,157,157,978.74,978.74,45,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1147,Addis Engineering,Local Partner,Solar Power Systems,2024-05-13,2024-05-23,2024-05-23,99,99,750.68,750.68,10,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1148,Dayliff (Global),Internal Brand,Water Treatment,2024-05-20,2024-06-16,2024-06-16,120,120,857.66,857.66,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1149,Speroni (Italy),External OEM,Pool Equipment,2024-12-21,2025-02-09,2025-02-09,129,129,1105.65,1105.65,50,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1150,Pedrollo (Italy),External OEM,Surface Pumps,2025-08-26,2025-10-08,2025-10-08,38,38,751.37,751.37,43,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1151,Nile Logistics,Local Partner,Surface Pumps,2025-09-04,2025-09-11,2025-09-11,173,173,415.18,415.18,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1152,Dayliff (Global),Internal Brand,Surface Pumps,2025-07-20,2025-08-11,2025-08-11,158,158,968.66,968.66,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1153,Pedrollo (Italy),External OEM,Solar Power Systems,2025-03-11,2025-05-09,2025-05-09,178,178,206.02,206.02,59,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1154,Dayliff (Global),Internal Brand,Borehole Pumps,2025-06-20,2025-07-19,2025-07-19,139,139,1395.81,1395.81,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1155,SolarWorld (Germany),External OEM,Surface Pumps,2025-06-12,2025-07-27,2025-07-27,188,188,242.7,266.97,45,24.27000000000004,10.000000000000016,True,0,On-Time,100.0,False
+DS-2025-1156,Pedrollo (Italy),External OEM,Solar Power Systems,2025-05-15,2025-07-12,2025-07-12,38,38,604.92,604.92,58,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1157,Speroni (Italy),External OEM,Surface Pumps,2025-04-13,2025-06-03,2025-06-03,93,93,431.45,431.45,51,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1158,Dayliff (Global),Internal Brand,Surface Pumps,2025-09-21,2025-10-16,2025-10-16,198,198,310.95,310.95,25,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1159,Dayliff (Global),Internal Brand,Solar Power Systems,2024-05-20,2024-06-15,2024-06-15,193,193,754.83,754.83,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1160,Dayliff (Global),Internal Brand,Solar Power Systems,2025-10-31,2025-11-20,2025-11-20,39,39,247.51,247.51,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1161,Dayliff (Global),Internal Brand,Borehole Pumps,2025-08-12,2025-09-03,2025-09-03,122,122,789.28,789.28,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1162,SolarWorld (Germany),External OEM,Solar Power Systems,2025-10-05,2025-11-09,2025-11-09,64,64,634.67,698.1370000000001,35,63.4670000000001,10.000000000000016,True,0,On-Time,100.0,False
+DS-2025-1163,Dayliff (Global),Internal Brand,Surface Pumps,2025-04-02,2025-04-24,2025-04-24,133,133,1037.2,1037.2,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1164,Dayliff (Global),Internal Brand,Surface Pumps,2025-04-20,2025-05-11,2025-05-11,17,17,1327.09,1327.09,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1165,SolarWorld (Germany),External OEM,Solar Power Systems,2025-03-18,2025-04-29,2025-04-29,76,76,335.34,335.34,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1166,SolarWorld (Germany),External OEM,Solar Power Systems,2024-09-20,2024-10-26,2024-10-26,97,97,1246.91,1246.91,36,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1167,Ethio-Plastics,Local Partner,Borehole Pumps,2024-06-30,2024-07-07,2024-07-15,64,64,728.31,728.31,15,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1168,Dayliff (Global),Internal Brand,Pool Equipment,2025-11-03,2025-11-29,2025-11-29,121,121,1302.57,1302.57,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1169,Ethio-Plastics,Local Partner,Pool Equipment,2025-11-30,2025-12-04,2025-12-04,56,56,1360.47,1360.47,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1170,Dayliff (Global),Internal Brand,Water Treatment,2025-01-20,2025-02-11,2025-02-11,149,149,967.38,967.38,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1171,Pedrollo (Italy),External OEM,Solar Power Systems,2024-09-12,2024-10-25,2024-10-25,181,181,766.96,766.96,43,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1172,Addis Engineering,Local Partner,Solar Power Systems,2024-12-29,2025-01-08,2025-01-08,167,167,348.51,348.51,10,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1173,Ethio-Plastics,Local Partner,Borehole Pumps,2024-04-24,2024-04-27,2024-04-27,49,49,549.28,549.28,3,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1174,SolarWorld (Germany),External OEM,Borehole Pumps,2024-07-19,2024-09-13,2024-09-13,13,13,1038.57,1038.57,56,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1175,Grundfos (Denmark),External OEM,Borehole Pumps,2025-09-01,2025-10-28,2025-10-28,79,79,1088.14,1088.14,57,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1176,Pedrollo (Italy),External OEM,Pool Equipment,2024-12-21,2025-02-02,2025-02-02,26,26,556.27,556.27,43,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1177,Pedrollo (Italy),External OEM,Pool Equipment,2025-08-10,2025-10-06,2025-10-06,95,95,338.55,338.55,57,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1178,Dayliff (Global),Internal Brand,Water Treatment,2024-10-13,2024-11-07,2024-11-07,107,107,1151.84,1151.84,25,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1179,Grundfos (Denmark),External OEM,Pool Equipment,2025-03-30,2025-05-13,2025-05-13,163,163,1388.74,1388.74,44,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1180,Dayliff (Global),Internal Brand,Surface Pumps,2025-09-25,2025-10-16,2025-10-16,116,116,416.17,416.17,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1181,Dayliff (Global),Internal Brand,Solar Power Systems,2024-10-18,2024-11-09,2024-11-09,158,158,518.95,518.95,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1182,Dayliff (Global),Internal Brand,Solar Power Systems,2025-05-26,2025-06-18,2025-06-18,48,48,1134.76,1134.76,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1183,Nile Logistics,Local Partner,Surface Pumps,2025-09-14,2025-09-24,2025-09-24,78,78,1417.88,1417.88,10,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1184,Dayliff (Global),Internal Brand,Solar Power Systems,2024-05-27,2024-06-18,2024-06-18,90,90,973.6,973.6,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1185,Pedrollo (Italy),External OEM,Surface Pumps,2024-07-19,2024-08-24,2024-08-24,49,49,338.58,338.58,36,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1186,Grundfos (Denmark),External OEM,Solar Power Systems,2025-09-07,2025-10-21,2025-10-21,44,44,797.59,797.59,44,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1187,Dayliff (Global),Internal Brand,Water Treatment,2024-04-17,2024-05-09,2024-05-09,107,107,553.79,553.79,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1188,Dayliff (Global),Internal Brand,Surface Pumps,2024-02-13,2024-03-04,2024-03-04,83,83,377.86,377.86,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1189,SolarWorld (Germany),External OEM,Pool Equipment,2024-01-12,2024-03-02,2024-03-02,17,17,1334.83,1334.83,50,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1190,Grundfos (Denmark),External OEM,Borehole Pumps,2025-01-08,2025-02-27,2025-02-27,34,34,1303.95,1434.3450000000005,50,130.39500000000044,10.000000000000032,True,0,On-Time,100.0,False
+DS-2025-1191,SolarWorld (Germany),External OEM,Borehole Pumps,2025-07-24,2025-09-05,2025-09-05,56,56,1427.28,1427.28,43,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1192,Grundfos (Denmark),External OEM,Surface Pumps,2024-03-26,2024-05-06,2024-05-06,126,126,244.13,244.13,41,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1193,Dayliff (Global),Internal Brand,Solar Power Systems,2025-05-12,2025-06-07,2025-06-07,125,125,1233.94,1233.94,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1194,Dayliff (Global),Internal Brand,Solar Power Systems,2025-05-04,2025-05-30,2025-05-30,168,168,248.11,248.11,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1195,Grundfos (Denmark),External OEM,Borehole Pumps,2024-04-07,2024-05-14,2024-05-14,177,177,1105.18,1105.18,37,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1196,Speroni (Italy),External OEM,Pool Equipment,2024-02-08,2024-03-28,2024-03-28,13,13,1245.17,1369.687,49,124.51699999999983,9.999999999999986,True,0,On-Time,100.0,False
+DS-2025-1197,Grundfos (Denmark),External OEM,Borehole Pumps,2024-06-09,2024-07-29,2024-08-28,117,117,754.86,754.86,80,0.0,0.0,False,30,Critical Delay,100.0,False
+DS-2025-1198,Dayliff (Global),Internal Brand,Pool Equipment,2024-06-18,2024-07-09,2024-07-09,22,22,227.65,227.65,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1199,Dayliff (Global),Internal Brand,Water Treatment,2025-08-30,2025-09-21,2025-09-21,55,55,291.04,291.04,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1200,Dayliff (Global),Internal Brand,Water Treatment,2025-04-21,2025-05-15,2025-05-15,25,25,823.72,823.72,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1201,Addis Engineering,Local Partner,Solar Power Systems,2024-12-24,2024-12-30,2024-12-30,186,186,1158.86,1158.86,6,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1202,Speroni (Italy),External OEM,Pool Equipment,2025-10-31,2025-12-22,2025-12-22,199,199,585.2,585.2,52,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1203,Dayliff (Global),Internal Brand,Solar Power Systems,2025-08-07,2025-08-27,2025-08-27,149,149,709.12,709.12,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1204,Ethio-Plastics,Local Partner,Solar Power Systems,2025-01-14,2025-01-22,2025-01-30,72,72,1477.03,1477.03,16,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1205,Addis Engineering,Local Partner,Water Treatment,2024-06-01,2024-06-10,2024-06-10,68,68,1488.52,1488.52,9,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1206,Addis Engineering,Local Partner,Surface Pumps,2024-08-30,2024-09-03,2024-09-03,178,178,699.32,699.32,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1207,Addis Engineering,Local Partner,Surface Pumps,2025-05-31,2025-06-07,2025-06-07,186,186,1018.71,1018.71,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1208,Addis Engineering,Local Partner,Surface Pumps,2025-07-26,2025-07-31,2025-07-31,71,71,1185.71,1185.71,5,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1209,Dayliff (Global),Internal Brand,Pool Equipment,2024-06-08,2024-06-30,2024-06-30,129,129,491.77,491.77,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1210,Grundfos (Denmark),External OEM,Surface Pumps,2025-08-02,2025-09-19,2025-09-19,20,20,1318.16,1318.16,48,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1211,Dayliff (Global),Internal Brand,Borehole Pumps,2025-09-26,2025-10-24,2025-10-24,85,85,257.69,257.69,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1212,Ethio-Plastics,Local Partner,Solar Power Systems,2024-09-17,2024-09-21,2024-09-21,47,47,730.99,730.99,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1213,Pedrollo (Italy),External OEM,Pool Equipment,2025-03-29,2025-05-07,2025-05-07,37,37,486.24,486.24,39,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1214,Addis Engineering,Local Partner,Borehole Pumps,2024-02-09,2024-02-14,2024-02-14,65,65,1272.09,1272.09,5,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1215,Grundfos (Denmark),External OEM,Water Treatment,2024-10-15,2024-11-24,2024-11-24,89,89,877.64,877.64,40,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1216,Nile Logistics,Local Partner,Solar Power Systems,2025-11-11,2025-11-22,2025-11-22,109,109,1409.12,1409.12,11,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1217,SolarWorld (Germany),External OEM,Borehole Pumps,2024-05-12,2024-06-26,2024-06-26,40,40,1449.71,1594.6810000000005,45,144.97100000000046,10.000000000000032,True,0,On-Time,100.0,False
+DS-2025-1218,Dayliff (Global),Internal Brand,Borehole Pumps,2024-12-28,2025-01-21,2025-01-21,168,168,1166.56,1166.56,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1219,Addis Engineering,Local Partner,Solar Power Systems,2025-08-11,2025-08-20,2025-08-20,22,22,451.07,451.07,9,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1220,Ethio-Plastics,Local Partner,Pool Equipment,2024-12-25,2024-12-29,2024-12-29,97,97,1024.21,1024.21,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1221,Pedrollo (Italy),External OEM,Water Treatment,2025-04-11,2025-05-22,2025-05-22,72,72,903.65,903.65,41,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1222,Pedrollo (Italy),External OEM,Water Treatment,2024-02-06,2024-04-02,2024-04-02,105,105,1418.4,1418.4,56,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1223,Dayliff (Global),Internal Brand,Borehole Pumps,2024-07-10,2024-07-30,2024-07-30,154,154,1202.28,1202.28,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1224,Pedrollo (Italy),External OEM,Pool Equipment,2025-04-18,2025-06-15,2025-06-15,59,59,259.46,259.46,58,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1225,SolarWorld (Germany),External OEM,Pool Equipment,2024-08-14,2024-10-07,2024-10-07,16,16,1185.74,1185.74,54,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1226,Dayliff (Global),Internal Brand,Borehole Pumps,2025-10-07,2025-10-29,2025-10-29,35,35,528.26,528.26,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1227,Dayliff (Global),Internal Brand,Surface Pumps,2024-10-11,2024-11-03,2024-11-03,150,150,754.04,754.04,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1228,Dayliff (Global),Internal Brand,Water Treatment,2024-06-05,2024-06-28,2024-06-28,184,184,1291.93,1291.93,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1229,SolarWorld (Germany),External OEM,Pool Equipment,2025-01-16,2025-03-03,2025-03-03,30,30,240.69,240.69,46,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1230,Pedrollo (Italy),External OEM,Borehole Pumps,2025-10-20,2025-12-18,2025-12-18,10,10,774.99,774.99,59,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1231,Nile Logistics,Local Partner,Water Treatment,2024-06-10,2024-06-15,2024-06-23,34,34,240.47,240.47,13,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1232,Speroni (Italy),External OEM,Pool Equipment,2024-07-26,2024-09-06,2024-09-06,154,154,407.02,407.02,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1233,SolarWorld (Germany),External OEM,Pool Equipment,2024-01-27,2024-03-15,2024-03-15,140,140,889.46,978.406,48,88.94599999999991,9.99999999999999,True,0,On-Time,100.0,False
+DS-2025-1234,Dayliff (Global),Internal Brand,Water Treatment,2025-11-23,2025-12-20,2025-12-20,140,140,1397.1,1397.1,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1235,Grundfos (Denmark),External OEM,Water Treatment,2024-07-24,2024-09-03,2024-09-03,93,93,362.74,362.74,41,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1236,Speroni (Italy),External OEM,Solar Power Systems,2025-05-15,2025-07-09,2025-07-09,81,81,967.34,967.34,55,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1237,Ethio-Plastics,Local Partner,Borehole Pumps,2024-03-12,2024-03-19,2024-03-19,73,73,294.18,294.18,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1238,SolarWorld (Germany),External OEM,Water Treatment,2024-06-14,2024-07-29,2024-07-29,42,42,1103.48,1103.48,45,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1239,Speroni (Italy),External OEM,Water Treatment,2024-08-01,2024-09-23,2024-09-23,154,154,336.41,336.41,53,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1240,Nile Logistics,Local Partner,Surface Pumps,2025-08-14,2025-08-22,2025-08-30,157,157,1003.6,1003.6,16,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1241,Speroni (Italy),External OEM,Surface Pumps,2024-08-29,2024-10-03,2024-10-03,42,42,873.03,873.03,35,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1242,Dayliff (Global),Internal Brand,Borehole Pumps,2025-08-11,2025-09-03,2025-09-03,112,112,665.14,665.14,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1243,Addis Engineering,Local Partner,Water Treatment,2025-11-16,2025-11-20,2025-11-20,115,115,1267.87,1267.87,4,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1244,Dayliff (Global),Internal Brand,Surface Pumps,2024-11-12,2024-12-04,2024-12-04,18,18,1365.09,1365.09,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1245,Dayliff (Global),Internal Brand,Borehole Pumps,2025-02-19,2025-03-19,2025-03-19,17,17,1121.78,1121.78,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1246,Speroni (Italy),External OEM,Solar Power Systems,2024-11-13,2025-01-01,2025-01-01,16,16,1259.27,1259.27,49,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1247,Addis Engineering,Local Partner,Surface Pumps,2024-11-09,2024-11-17,2024-11-17,12,12,788.01,788.01,8,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1248,Dayliff (Global),Internal Brand,Water Treatment,2024-01-14,2024-02-04,2024-02-04,96,96,278.46,278.46,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1249,Dayliff (Global),Internal Brand,Water Treatment,2024-10-27,2024-11-18,2024-11-18,64,64,484.98,484.98,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1250,Grundfos (Denmark),External OEM,Water Treatment,2025-09-22,2025-11-16,2025-11-16,60,60,1056.32,1056.32,55,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1251,Pedrollo (Italy),External OEM,Solar Power Systems,2025-10-23,2025-12-01,2025-12-01,114,114,1495.23,1495.23,39,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1252,Pedrollo (Italy),External OEM,Water Treatment,2024-02-04,2024-03-31,2024-03-31,106,106,239.85,239.85,56,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1253,Dayliff (Global),Internal Brand,Pool Equipment,2024-06-07,2024-07-06,2024-07-06,157,157,1165.52,1165.52,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1254,Dayliff (Global),Internal Brand,Surface Pumps,2024-12-29,2025-01-21,2025-01-21,59,59,856.3,856.3,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1255,Grundfos (Denmark),External OEM,Borehole Pumps,2025-02-23,2025-04-19,2025-04-19,75,75,714.17,714.17,55,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1256,SolarWorld (Germany),External OEM,Pool Equipment,2025-01-05,2025-03-02,2025-03-02,140,140,666.9,666.9,56,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1257,Grundfos (Denmark),External OEM,Borehole Pumps,2025-06-03,2025-07-11,2025-07-11,96,96,1381.74,1381.74,38,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1258,Dayliff (Global),Internal Brand,Pool Equipment,2024-11-29,2024-12-20,2024-12-20,78,78,435.27,435.27,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1259,Pedrollo (Italy),External OEM,Borehole Pumps,2025-01-15,2025-03-05,2025-03-05,93,93,970.79,970.79,49,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1260,Dayliff (Global),Internal Brand,Solar Power Systems,2024-05-24,2024-06-21,2024-06-21,75,75,1460.24,1460.24,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1261,SolarWorld (Germany),External OEM,Pool Equipment,2025-03-24,2025-05-05,2025-05-05,173,173,978.33,978.33,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1262,Dayliff (Global),Internal Brand,Borehole Pumps,2024-10-13,2024-11-11,2024-11-11,23,23,295.55,295.55,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1263,Speroni (Italy),External OEM,Solar Power Systems,2024-12-26,2025-01-30,2025-01-30,17,17,784.26,784.26,35,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1264,Ethio-Plastics,Local Partner,Solar Power Systems,2025-07-29,2025-08-06,2025-08-06,130,130,417.9,417.9,8,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1265,Grundfos (Denmark),External OEM,Water Treatment,2024-07-22,2024-08-30,2024-08-30,129,129,1216.33,1216.33,39,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1266,SolarWorld (Germany),External OEM,Surface Pumps,2025-09-11,2025-11-04,2025-11-04,139,139,550.67,550.67,54,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1267,Speroni (Italy),External OEM,Pool Equipment,2024-10-08,2024-11-12,2024-11-12,68,68,358.74,394.614,35,35.87399999999997,9.999999999999991,True,0,On-Time,100.0,False
+DS-2025-1268,Dayliff (Global),Internal Brand,Borehole Pumps,2025-11-21,2025-12-20,2025-12-20,52,52,716.59,716.59,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1269,Dayliff (Global),Internal Brand,Borehole Pumps,2024-07-03,2024-07-29,2024-07-29,180,180,791.16,791.16,26,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1270,Dayliff (Global),Internal Brand,Pool Equipment,2024-10-20,2024-11-12,2024-11-12,135,135,363.46,363.46,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1271,Dayliff (Global),Internal Brand,Pool Equipment,2025-01-09,2025-02-05,2025-02-05,138,138,1460.89,1460.89,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1272,Grundfos (Denmark),External OEM,Borehole Pumps,2025-05-09,2025-07-04,2025-08-03,64,64,531.9,585.09,86,53.190000000000055,10.00000000000001,True,30,Critical Delay,100.0,False
+DS-2025-1273,Dayliff (Global),Internal Brand,Surface Pumps,2025-02-17,2025-03-10,2025-03-10,35,35,517.39,517.39,21,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1274,Dayliff (Global),Internal Brand,Pool Equipment,2024-12-10,2025-01-02,2025-01-02,156,156,1079.47,1079.47,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1275,Grundfos (Denmark),External OEM,Surface Pumps,2025-08-24,2025-09-29,2025-10-29,72,72,1499.24,1499.24,66,0.0,0.0,False,30,Critical Delay,100.0,False
+DS-2025-1276,Ethio-Plastics,Local Partner,Surface Pumps,2025-11-18,2025-11-29,2025-11-29,168,168,317.63,317.63,11,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1277,Dayliff (Global),Internal Brand,Solar Power Systems,2025-09-01,2025-09-26,2025-09-26,111,111,625.14,625.14,25,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1278,Addis Engineering,Local Partner,Solar Power Systems,2025-01-31,2025-02-11,2025-02-11,118,118,612.35,612.35,11,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1279,Dayliff (Global),Internal Brand,Water Treatment,2025-03-30,2025-04-27,2025-04-27,74,74,626.9,626.9,28,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1280,SolarWorld (Germany),External OEM,Water Treatment,2025-08-27,2025-10-25,2025-10-25,44,44,975.43,1072.973,59,97.543,10.0,True,0,On-Time,100.0,False
+DS-2025-1281,Dayliff (Global),Internal Brand,Borehole Pumps,2024-09-23,2024-10-15,2024-10-15,83,83,418.98,418.98,22,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1282,SolarWorld (Germany),External OEM,Pool Equipment,2024-03-25,2024-05-06,2024-05-06,165,165,874.81,874.81,42,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1283,Ethio-Plastics,Local Partner,Water Treatment,2024-01-12,2024-01-19,2024-01-19,46,46,718.47,718.47,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1284,SolarWorld (Germany),External OEM,Solar Power Systems,2024-12-08,2025-01-17,2025-01-17,117,117,1170.94,1170.94,40,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1285,Grundfos (Denmark),External OEM,Pool Equipment,2025-02-10,2025-03-27,2025-03-27,56,56,209.83,209.83,45,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1286,Ethio-Plastics,Local Partner,Borehole Pumps,2024-02-20,2024-02-26,2024-03-05,28,28,1414.77,1414.77,14,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1287,Dayliff (Global),Internal Brand,Water Treatment,2025-01-07,2025-01-30,2025-01-30,166,166,1071.12,1071.12,23,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1288,Speroni (Italy),External OEM,Surface Pumps,2024-04-15,2024-05-23,2024-05-23,11,11,1132.93,1132.93,38,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1289,Addis Engineering,Local Partner,Pool Equipment,2024-12-10,2024-12-19,2024-12-19,83,83,1085.45,1085.45,9,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1290,Dayliff (Global),Internal Brand,Water Treatment,2024-11-07,2024-11-27,2024-11-27,51,51,937.51,937.51,20,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1291,Pedrollo (Italy),External OEM,Solar Power Systems,2025-01-19,2025-03-06,2025-03-06,115,115,256.44,256.44,46,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1292,Dayliff (Global),Internal Brand,Borehole Pumps,2024-04-27,2024-05-21,2024-05-21,146,146,1349.47,1349.47,24,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1293,Dayliff (Global),Internal Brand,Borehole Pumps,2024-01-10,2024-02-06,2024-02-06,134,134,734.34,734.34,27,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1294,Ethio-Plastics,Local Partner,Solar Power Systems,2024-06-02,2024-06-09,2024-06-09,161,161,592.68,592.68,7,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1295,Nile Logistics,Local Partner,Borehole Pumps,2024-07-20,2024-07-31,2024-08-08,173,173,324.2,324.2,19,0.0,0.0,False,8,Critical Delay,100.0,False
+DS-2025-1296,Pedrollo (Italy),External OEM,Borehole Pumps,2025-08-03,2025-09-21,2025-09-21,117,117,505.81,505.81,49,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1297,Grundfos (Denmark),External OEM,Water Treatment,2025-10-23,2025-12-12,2025-12-12,172,172,605.95,605.95,50,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1298,Dayliff (Global),Internal Brand,Pool Equipment,2025-06-06,2025-07-05,2025-07-05,86,86,533.95,533.95,29,0.0,0.0,False,0,On-Time,100.0,False
+DS-2025-1299,Dayliff (Global),Internal Brand,Solar Power Systems,2024-11-15,2024-12-07,2024-12-07,155,155,976.16,976.16,22,0.0,0.0,False,0,On-Time,100.0,False
