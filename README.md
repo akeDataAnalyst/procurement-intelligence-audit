@@ -1,6 +1,8 @@
 # Strategic Procurement & Supplier Intelligence Scorecard (2024–2025)
 ---
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+
 ## Project Description
 
 This project is a high-fidelity Forensic Procurement Audit and Performance Dashboard designed for a technical supply chain environment.
